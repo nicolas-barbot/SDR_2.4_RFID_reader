@@ -1,0 +1,13 @@
+Hands-on 2.4 GHz RFID
+
+N. Barbot
+
+This article presents a RFID system (i.e. tag and reader) allowing to experiment with the RFID technology at 2.4 GHz. The tag is a classical UHF tag whose antenna has been modified to operate at 2.4 GHz. The reader is based on an Arduino platform with a nRF24L01+ module and an envelope detector. This system is entirely compatible with the regulations (FCC and ETSI) and the Gen2 standard. All file design will be released in open source for the community. Finally the total cost of the prototype is under $30 and can be built by students.
+
+Citing this work:
+
+N. Barbot, “Hands-on 2.4 GHz RFID,” in in 2022 IEEE International Conference on RFID Technology and Applications (RFID-TA) (IEEE RFID-TA 2023), Aveiro, Portugal, Sep. 2023.
+
+References
+
+[1] N. Barbot, R. De Amorim Jr and P. Nikitin, “Simple Low Cost Open Source UHF RFID Reader,” in Journal of Radio Frequency Identification, vol. 7, pp. 20-26, 2023, doi: 10.1109/JRFID.2022.3227533.
